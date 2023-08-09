@@ -232,7 +232,7 @@ After designing Datamart from raw data, I built Sales Performance Dashboard base
 
 From the dashboard, some insights can be seen as follows:
 - There is a significant overall sales performance increase on April, especially on Kuningan, Bekasi, Padang and Bandung sales branch which growth rate increased by >200%
-- Almost 50% sales on April consist of ampicillin and ambroxol product sales which both are popular cough and cold medicine also antibiotic
+- Almost 70% sales on April consist of ampicillin, tramadol, and ambroxol product sales which are popular cough and cold medicines also antibiotic
 - An explanation that can be developed is that April is the time of transition from the rainy season to the dry season in Indonesia, causing erratic air conditions, lots of strong winds and the emergence of several diseases including coughs and colds.
 <br>
 
