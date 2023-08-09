@@ -203,22 +203,22 @@ CREATE TABLE data.mom_growth_rate AS
 </details>
 
 <p align="center">
-  <kbd><img src="data/base_table.png"> </kbd> <br>
+  <kbd><img src="assets/base_table.png"> </kbd> <br>
   Fig.2. Base Table
 </p>
 
 <p align="center">
-  <kbd><img src="data/agg_table1.png"> </kbd> <br>
+  <kbd><img src="assets/agg_table1.png"> </kbd> <br>
   Fig.3. Aggregate Table 1
 </p>
 
 <p align="center">
-  <kbd><img src="data/agg_table2.png"> </kbd> <br>
+  <kbd><img src="assets/agg_table2.png"> </kbd> <br>
   Fig.4. Aggregate Table 2 (Monthly Sales Summary)
 </p>
 
 <p align="center">
-  <kbd><img src="data/agg_table3.png"> </kbd> <br>
+  <kbd><img src="assets/agg_table3.png"> </kbd> <br>
   Fig.5. Aggregate Table 3 (Month-over-Month Sales Performance)
 </p>
 
@@ -226,7 +226,7 @@ CREATE TABLE data.mom_growth_rate AS
 After designing Datamart from raw data, I built Sales Performance Dashboard based on the aggregate tables previously created. For Interactive Dasboard please click  <a href="https://lookerstudio.google.com/reporting/3987b2f4-1076-4d35-84dc-708d8ee7b846">this link</a>
 
 <p align="center">
-  <kbd><img src="data/dashboard_ss.png"> </kbd> <br>
+  <kbd><img src="assets/dashboard_ss.png"> </kbd> <br>
   Fig.6. <a href="https://lookerstudio.google.com/reporting/3987b2f4-1076-4d35-84dc-708d8ee7b846">Kimia Farma Sales Performance Dashboard</a>
 </p>
 
