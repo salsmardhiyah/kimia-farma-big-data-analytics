@@ -213,12 +213,12 @@ CREATE TABLE data.mom_growth_rate AS
 </p>
 
 <p align="center">
-  <kbd><img src="assets/agg_table2.png"> </kbd> <br>
+  <kbd><img src="assets/agg_table3.png"> </kbd> <br>
   Fig.4. Aggregate Table 2 (Monthly Sales Summary)
 </p>
 
 <p align="center">
-  <kbd><img src="assets/agg_table3.png"> </kbd> <br>
+  <kbd><img src="assets/mom_table.png"> </kbd> <br>
   Fig.5. Aggregate Table 3 (Month-over-Month Sales Performance)
 </p>
 
